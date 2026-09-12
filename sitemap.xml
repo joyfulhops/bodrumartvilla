@@ -10,7 +10,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://bodrumartvilla.com/ru/" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://bodrumartvilla.com/ar/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bodrumartvilla.com/" />
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,7 +21,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://bodrumartvilla.com/ru/" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://bodrumartvilla.com/ar/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bodrumartvilla.com/" />
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -32,7 +32,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://bodrumartvilla.com/ru/" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://bodrumartvilla.com/ar/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bodrumartvilla.com/" />
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
@@ -43,8 +43,32 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://bodrumartvilla.com/ru/" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://bodrumartvilla.com/ar/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bodrumartvilla.com/" />
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://bodrumartvilla.com/catalog-tr.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bodrumartvilla.com/catalog-en.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bodrumartvilla.com/catalog-ru.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bodrumartvilla.com/catalog-ar.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
